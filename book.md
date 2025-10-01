@@ -14,8 +14,8 @@ All of the following domain variations should work without `Your website is not 
 
 * https://example.com (SAN 1)
 * https://www.example.com (SAN 2)
-* http://example.com (this CNAME redirect should redirect to https://example.com)
-* http://www.example.com (this CNAME redirect should redirect to https://www.example.com)
+* http://example.com (this redirect should point to https://example.com)
+* http://www.example.com (this redirect should point to https://www.example.com)
 
 ## Installation
 
