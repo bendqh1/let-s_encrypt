@@ -6,3 +6,7 @@ To use certsage:
 1. Visit http://example.com/certsage.php
 
 [More information here](https://community.letsencrypt.org/t/certsage-acme-client-version-1-4-0-easy-webpage-interface-optimized-for-cpanel-no-commands-to-type-root-not-required/188070).
+
+## Links
+
+* https://community.letsencrypt.org/t/what-may-cause-your-connection-isnt-private-when-running-certsage-php-from-a-web-browser/208756/1
