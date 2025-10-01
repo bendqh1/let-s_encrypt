@@ -23,6 +23,11 @@ Paid certificates could be installed by an hosting company technical support tea
 
 Gratis certificates such as Let's Encrypt certificates could be installed with acme.sh or with CertSage (some tools may require root access).
 
+## Notes
+
+* Among Let's Encrypt community activists there is no real reason to pay for SSL certificates.
+* After a certificate has been issued, we can't modify it or add or remove any domain or subdomain (SAN) after issuance — we’d need to issue a new certificate which in cases of paid certificates will cost momey.
+
 ## Links
 
 * https://community.letsencrypt.org/u/humbleasker/activity/topics
