@@ -28,4 +28,5 @@ Click to test and if the test is successful then **refill all data** and click *
 
 ## Notes
 
+* When navigating to `example.com/web/certsage.php` there will be a warning due to lack of certificate. Proceed exceptionally to install the certificate.
 * CertSage communicates with Cpanel API. Cpanel is a shared-hosting standard and should be available. If there is no Cpanel, probably there is root access and it's best to use Certbot or equivalent.
